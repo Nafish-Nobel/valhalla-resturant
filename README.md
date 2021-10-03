@@ -6,5 +6,5 @@ And there key features  are:
 * we can lode data dynamicly.
 * use bootstrap framework.
 * Choose any of singel or multipule food and order button clicked its will be add on total of your  orders.
-* *And also which food we orderd there list will be showen down Your Orders site.
+* And also which food we orderd there list will be showen down Your Orders site.
 * And the orders cost are add on total.
