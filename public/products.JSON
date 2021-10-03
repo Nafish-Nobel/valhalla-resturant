@@ -1,0 +1,105 @@
+[
+    {
+        "key": "10%Off",
+        "category": "Meal",
+        "name": "Rice",
+        "sell": "3M",
+        "price": 68,
+        "img": "https://media.istockphoto.com/photos/rice-in-a-bowl-on-a-white-background-picture-id860931464?k=20&m=860931464&s=612x612&w=0&h=Q5ADqpZbQbVzm3YkNwbyhn023S64em9w08O0xg0b0KE="
+        
+
+    },
+    {
+        "key": "5%Off",
+        "category": "Snacks",
+        "name": "FrenchFry",
+        "sell": "2M",
+        "price": 300,
+        "img": "https://static.wixstatic.com/media/de34f9_c721154d15284f1d80d598c2f08e7680~mv2.png/v1/fill/w_342,h_342,al_c,q_85,usm_0.66_1.00_0.01/FrenchFry_Logo_Black.webp"
+        
+
+    },
+    {
+        "key": "25%Off",
+        "category": "Burger",
+        "name": "Beef",
+        "sell": "1M",
+        "price": 100,
+        "img": "https://media.istockphoto.com/photos/juicy-hamburger-on-white-background-picture-id1206323282?k=20&m=1206323282&s=612x612&w=0&h=yatlq6BHRCCvoTzFZLSwaJc0O8Quct_tRPWtH0dj9Fc="
+        
+
+    },
+    {
+        "key": "30%off",
+        "category": "Snacks",
+        "name": "Pizza",
+        "sell": "4M",
+        "price": 353,
+        "img": "https://media-exp1.licdn.com/dms/image/C4D1BAQFz6CveX1uTuw/company-background_10000/0/1519796883464?e=2159024400&v=beta&t=1AAvoFr1Pd9ZSrqGXYZhUL4y0sEi4oLWgl0DsHogDAc"
+        
+
+    },
+    {
+        "key": "B002R",
+        "category": "Soupe",
+        "name": "Corn",
+        "sell": "5M",
+        "price": 69,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKocBtF1KPIz0lIYH8oqqEfD41LLKx4spF7g&usqp=CAU"
+        
+
+    },
+    
+    {
+        "key": "B002RL",
+        "category": "Soupe",
+        "name": "ChickenSoupe",
+        "sell": "3M",
+        "price": 79,
+        "img": "https://i.ytimg.com/vi/dMrNqNcQ6qY/maxresdefault.jpg"
+        
+
+    },
+    {
+        "key": "L8IIK",
+        "category": "Grill",
+        "name": "Chicken",
+        "sell": "5M",
+        "price": 560,
+        "img": "https://media.istockphoto.com/photos/homemade-grilled-barbecue-chicken-picture-id502474519?k=20&m=502474519&s=612x612&w=0&h=bLtpfdGBb_rYTF-0qVE-hySP5OgMoLfd6azkqn6gEJU="
+        
+
+    },
+    {
+        "key": "8IOK",
+        "category": "Grill",
+        "name": "Beef",
+        "sell": "3M",
+        "price": 700,
+        "img": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/barbecue-beef-be536ca.jpg?quality=90&resize=300,272"
+        
+
+    },
+    {
+        "key": "5%Off",
+        "category": "Snacks",
+        "name": "Noodles",
+        "sell": "9M",
+        "price": 500,
+        "img": "https://www.diana-food.com/fileadmin/diana_food/5_Landing_pages/Culinary_Creations/Diana_Food_Culinary_Creations_3col_424x424.jpg"
+        
+
+    },
+    {
+        "key": "Cocke",
+        "category": "Snacks",
+        "name": "Pizza",
+        "sell": "3M",
+        "price": 900,
+        "img": "https://api.dominos.com.bd/olo-bg-prod-api/images/cheese_burst_20210629.jpg"
+        
+
+    }
+   
+  
+]

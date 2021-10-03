@@ -1,0 +1,9 @@
+/* header */
+.header-title{
+    font-family: 'Merienda', cursive;
+    font-size: 60px;
+}
+
+.header-title span{
+    color:orangered;
+}
